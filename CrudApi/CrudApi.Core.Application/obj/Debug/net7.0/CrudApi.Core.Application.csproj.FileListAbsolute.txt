@@ -1,0 +1,15 @@
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\bin\Debug\net7.0\CrudApi.Core.Application.deps.json
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\bin\Debug\net7.0\CrudApi.Core.Application.dll
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\bin\Debug\net7.0\CrudApi.Core.Application.pdb
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\bin\Debug\net7.0\CrudApi.Core.Domain.dll
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\bin\Debug\net7.0\CrudApi.Core.Domain.pdb
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.csproj.AssemblyReference.cache
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.AssemblyInfoInputs.cache
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.AssemblyInfo.cs
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.csproj.CopyComplete
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.dll
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\refint\CrudApi.Core.Application.dll
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\CrudApi.Core.Application.pdb
+C:\Users\addie\OneDrive\Desktop\Developer\Personal Projects\CrudApi\CrudApi.Core.Application\obj\Debug\net7.0\ref\CrudApi.Core.Application.dll
